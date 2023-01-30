@@ -20,7 +20,7 @@
 ```sh
 $ cd Todo-React
 $ npm i
-$ npm run dev
+$ npm start
 ```
 
 ### Custom Hook (**useList**)
